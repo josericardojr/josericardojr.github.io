@@ -3,6 +3,7 @@ title: "Fluid Simulation"
 excerpt: "Fluid simulation using the SPH (Smoothed Particle Hydrodynamics) method for my thesis master degree. For this project, I archived two way coupling between fluids and rigid bodies using a heterogeneous ambiente of CPU and GPU (CUDA) at the same time.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+Fluid simulation using the SPH (Smoothed Particle Hydrodynamics) method for my thesis master degree. For this project, I archived two way coupling between fluids and rigid bodies using a heterogeneous ambiente of CPU and GPU (CUDA) at the same time.
 
 Challenges
 
